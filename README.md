@@ -17,7 +17,7 @@ Users will be able to type the specified letters in the keyboard or click on the
 
 ### Tech Stack 
 
-React, css, bootstrap
+React, sass
 
 
 ### Deployment 
