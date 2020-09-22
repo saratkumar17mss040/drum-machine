@@ -1,3 +1,30 @@
+## Drum Machine
+
+A simple react drum machine web application which let's you to drum based on mouse and key events and also
+switch on/off , adjust the volumes ! 
+
+## To run the project:
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
+
+
+### How will users interact with your web site?
+
+Users will be able to type the specified letters in the keyboard or click on the actual button to play different drum sounds and also has the ability to switch on/off the drum machine and adjust the volumes
+
+
+### Tech Stack 
+
+React, css, bootstrap
+
+
+### Deployment 
+
+I will deploy it through github pages
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
