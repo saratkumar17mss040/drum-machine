@@ -10,7 +10,7 @@ switch on/off , adjust the volumes !
 3. Run `npm start`
 
 
-### How will users interact with your web site?
+### How will users interact with your web application ?
 
 Users will be able to type the specified letters in the keyboard or click on the actual button to play different drum sounds and also has the ability to switch on/off the drum machine and adjust the volumes
 
